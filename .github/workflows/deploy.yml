@@ -1,7 +1,7 @@
 name: React Boilerplate Deploy
 
 on:
-  push:
+  pull_request:
     branches: [ main ]
 
 jobs:
