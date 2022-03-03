@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 .vscode
+.eslintcache
+/yarn.lock
 
 # testing
 /coverage
